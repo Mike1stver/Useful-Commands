@@ -10,3 +10,4 @@ Useful collection of comands i need often
 
 copy the public key to the version controlled git system you use such as GiutHub, Bitbucket, etc.
 
+- git clone --single-branch --branch <branchname> <remote-repo>
