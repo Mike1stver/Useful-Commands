@@ -21,3 +21,10 @@ copy the public key to the version controlled git system you use such as GiutHub
   - "editor.fontFamily": "Fira Code",
   - "editor.fontLigatures": true,
   - Restart VSCode
+- VSCode Extensions:
+  - Bracket Pair Colorizer
+  - Git Lens
+  - Auto Rename Tag
+  - Color Highlight
+  - ES7 React/Redux/GraphQL/React-Native snippets
+  - Settingns Sync
