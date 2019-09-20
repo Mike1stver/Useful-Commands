@@ -12,6 +12,9 @@ copy the public key to the version controlled git system you use such as GiutHub
 
 - git clone --single-branch --branch branchname remote-repo
 
+2. Repository Management
+- git add -f : Used to add files in .gitignore file.
+
 # Developer experience
 
 1. Basic configurations in VSCode
