@@ -31,7 +31,7 @@ copy the public key to the version controlled git system you use such as GiutHub
   - Color Highlight
   - ES7 React/Redux/GraphQL/React-Native snippets
   - Settingns Sync
- - Emmet is Enabled in VSCode by default, but to be bale to use it in JSX, we need
+ - Emmet is Enabled in VSCode by default, but to be bale to use it in JSX, we need:
   - Ctrl + Shift + P : Open User Settings
   - Extensions/Emmet : Edit in settings.json
   - Add
