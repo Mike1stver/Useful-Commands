@@ -44,7 +44,7 @@ copy the public key to the version controlled git system you use such as GiutHub
 1. npm init --y : Create a new NPM Project
 2. npm install react react-dom : dependencies are added alongside another libraries which support the first two. All of this libraries are in node_modules file.
 3. Create a .gitignore file an fill it with:
-node_modules : it is huge, upoload those files is nonsense, they can be downloaded by each user
-dist: contains the source code after webpack bundles the files, we already have this code source in the server.
+- node_modules : it is huge, upoload those files is nonsense, they can be downloaded by each user
+- dist: contains the source code after webpack bundles the files, we already have this code source in the server.
 4. 
 3. 
