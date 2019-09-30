@@ -46,5 +46,5 @@ copy the public key to the version controlled git system you use such as GiutHub
 3. Create a .gitignore file an fill it with:
 - node_modules : it is huge, upoload those files is nonsense, they can be downloaded by each user
 - dist: contains the source code after webpack bundles the files, we already have this code source in the server.
-4. 
+4. npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin
 3. 
