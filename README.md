@@ -48,3 +48,4 @@ copy the public key to the version controlled git system you use such as GiutHub
 - dist: contains the source code after webpack bundles the files, we already have this code source in the server.
 4. npm install --save-dev @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli webpack-dev-server babel-loader css-loader style-loader html-webpack-plugin
 3. Create a file webpack.config.js
+6. "eslint.autoFixOnSave": true : used to fix eslint issues after save the document
